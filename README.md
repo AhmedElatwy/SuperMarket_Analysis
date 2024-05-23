@@ -22,4 +22,4 @@ Customer Segmentation: group customers based on purchasing behavior.
 Product Performance Metrics: I calculated metrics like revenue per product category and identified top-selling items.
 
 Visualization: I created interactive charts (using Matplotlib or Seaborn) to communicate findings effectively.
-
+![alt text](https://github.com/AhmedElatwy/SuperMarket_Analysis/blob/main/Dashboard.png)
